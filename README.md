@@ -1,11 +1,5 @@
 # Food delivery App associated with Food Supplier
 
-**Authur1:** **Name:** Zihao Lu **NUID:** 002642258
-
-**Authur2:** **Name:** Chen Yang **NUID:** 002837912
-
-**Authur3:** **Name:** Pei-Han Hsu **NUID:** 002244953
-
 # Organizations of the system
 
 **Customer:** 
