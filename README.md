@@ -29,3 +29,6 @@
 
 ## Flow Chart
 ![Flow Chart](https://github.com/peihan-11/Food-Delivery-App-associated-with-Food-Supplier/blob/main/image/Food%20delivery%20App%20associated%20with%20Food%20Supplier_Flowchart.png)
+
+## Hierarchy
+![Hierarchy](https://github.com/peihan-11/Food-Delivery-App-associated-with-Food-Supplier/blob/main/image/Food%20delivery%20App%20associated%20with%20Food%20Supplier_Hierarchy%20Graph.png)
