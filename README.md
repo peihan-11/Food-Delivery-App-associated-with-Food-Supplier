@@ -27,5 +27,5 @@
 2. Farm can send food material to company.
 3. Farm can see how much it earned.
 
-# UML
-![Supplier_Flowchart](https://github.com/peihan-11/Food-Delivery-App-associated-with-Food Supplier/blob/main/image/Food%20delivery%20App%20associated%20with%20Food%20Supplier_Flowchart.png)
+## Flow Chart
+![Flow Chart](https://github.com/peihan-11/Food-Delivery-App-associated-with-Food Supplier/blob/main/image/Food%20delivery%20App%20associated%20with%20Food%20Supplier_Flowchart.png)
