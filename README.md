@@ -34,3 +34,7 @@
 
 ## Hierarchy
 ![Hierarchy](https://github.com/peihan-11/Food-Delivery-App-associated-with-Food-Supplier/blob/main/image/Food%20delivery%20App%20associated%20with%20Food%20Supplier_Hierarchy%20Graph.png)
+
+## Slide
+https://docs.google.com/presentation/d/17xHoOXTSdjAnBxUG3_CHmg9xY1m5aqGb2ycSlZCKoUw/edit#slide=id.g2a536d6cca1_0_36
+
