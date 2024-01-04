@@ -28,5 +28,4 @@
 3. Farm can see how much it earned.
 
 # UML
-
-[Final_UML_20231209_2.pdf](https://github.com/aed5100/final-project-team-hsly/files/13629278/Final_UML_20231209_2.pdf)
+![Supplier_Flowchart](https://github.com/peihan-11/Food-Delivery-App-associated-with-Food Supplier/blob/main/image/Food%20delivery%20App%20associated%20with%20Food%20Supplier_Flowchart.png)
